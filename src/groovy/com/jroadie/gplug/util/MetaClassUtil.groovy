@@ -1,6 +1,5 @@
 package com.jroadie.gplug.util
 
-import com.bitmascot.constants.DomainConstants
 import grails.gorm.DetachedCriteria
 import grails.orm.HibernateCriteriaBuilder
 import groovy.time.TimeCategory

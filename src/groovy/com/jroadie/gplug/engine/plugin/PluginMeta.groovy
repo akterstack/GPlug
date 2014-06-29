@@ -1,7 +1,6 @@
 package com.jroadie.gplug.engine.plugin
 
-import com.bitmascot.manager.HookManager
-import com.bitmascot.util.AppUtil
+import com.jroadie.gplug.util.AppUtil
 import grails.util.Holders
 import groovy.io.FileType
 

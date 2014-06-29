@@ -136,7 +136,7 @@ target(descriptor: "Generates descriptor.xml") {
                 }
             }
             filters() {
-                File filters = new File("grails-app/conf/com/bitmascot/plugin/" + grailsAppName.replace('-', '_') + "/filters");
+                File filters = new File("grails-app/conf/com/jroadie/gplug/plugin/" + grailsAppName.replace('-', '_') + "/filters");
                 if(filters.exists()) {
                     int cutLength = new File("grails-app/conf").absolutePath.length() + 1;
                     filters.traverse { _file ->

@@ -7,7 +7,7 @@ class BoilerplateGrailsPlugin extends GrailsPluginBase {
         grailsVersion = "2.4.0 > *"
         title = "Boilerplate" // Headline display name of the plugin
         author = "Akter Hossain"
-        authorEmail = "akter@bitmascot.com"
+        authorEmail = "akter.hossain.ict@gmail.com"
         description = '''Description'''
         documentation = "http://grails.org/plugin/gplug-boilerplate";
         _plugin = new PluginMeta(identifier: "boilerplate", name: title, loader: BoilerplateGrailsPlugin.classLoader);

@@ -1,6 +1,6 @@
 package com.jroadie.gplug.util.security
 
-import com.bitmascot.util.Base64Coder
+import com.jroadie.gplug.util.Base64Coder
 import org.apache.commons.lang.StringUtils
 
 import javax.crypto.Cipher

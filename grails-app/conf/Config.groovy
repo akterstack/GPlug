@@ -73,7 +73,7 @@ log4j.main = {
                     'org.hibernate',
                     'filters',
                     'errors.GrailsExceptionResolver',
-                    'com.bitmascot'
+                    'com.jroadie.gplug'
                 ]
             }
             development {
